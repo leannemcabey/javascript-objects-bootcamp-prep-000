@@ -1,4 +1,4 @@
-var playlist = {{'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometimes'}
+var playlist = {'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometimes'}
 
 // We can only have one song per artist, because we can't duplicate the keys.
 
